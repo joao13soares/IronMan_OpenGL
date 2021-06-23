@@ -1,0 +1,15 @@
+﻿  Source.cpp
+Source.obj : error LNK2005: "float ZOOM" (?ZOOM@@3MA) já definida no Rendering.obj
+Source.obj : error LNK2005: "float ANGLE" (?ANGLE@@3MA) já definida no Rendering.obj
+Rendering.obj : error LNK2019: símbolo externo indefinido _glewInit@0 referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwInit referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwTerminate referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwCreateWindow referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwWindowShouldClose referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwPollEvents referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwSetScrollCallback referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwMakeContextCurrent referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+Rendering.obj : error LNK2019: símbolo externo indefinido _glfwSwapBuffers referenciado na função "int __cdecl render(void)" (?render@@YAHXZ)
+glew32s.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+C:\Users\João\Desktop\IPCA\2º ano (2019-2020)\2º semestre\Programação 3D\Trabalho Prático\IronMan\Debug\IronMan.exe : fatal error LNK1120: 9 externo não resolvidos
