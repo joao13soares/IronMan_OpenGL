@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/joao13soares/IronMan_OpenGL/blob/main/IronMan.png" width = "500">
 
-Iron Man model rendering in C++ using OpenGL, GLM and GLFW libraries, as a project for the 3D Programming university course.
+Iron Man is a 3D model rendered in C++ using OpenGL, GLM and GLFW libraries, as a project for the 3D Programming university course.
 
 Project Features:
 - Camera's horizontal movement;
